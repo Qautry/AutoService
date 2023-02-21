@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AutoService.iml" filepath="$PROJECT_DIR$/.idea/modules/AutoService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AutoService.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AutoService.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AutoService.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AutoService.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AutoService.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AutoService.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AutoService.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AutoService.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib-autoservice/AutoService.lib-autoservice.iml" filepath="$PROJECT_DIR$/.idea/modules/lib-autoservice/AutoService.lib-autoservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib-autoservice/AutoService.lib-autoservice.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lib-autoservice/AutoService.lib-autoservice.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib-autoservice/AutoService.lib-autoservice.test.iml" filepath="$PROJECT_DIR$/.idea/modules/lib-autoservice/AutoService.lib-autoservice.test.iml" />
+    </modules>
+  </component>
+</project>
