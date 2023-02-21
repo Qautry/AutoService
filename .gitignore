@@ -1,0 +1,20 @@
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+*.bin
+# generated files
+bin/
+gen/
+out/
+
+# Gradle files
+.gradle/
+build/
+hDPhone/build/
+360jiagu/
